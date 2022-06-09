@@ -1,0 +1,64 @@
+[
+	{
+		"Player": "Mickael",
+		"ELO": [
+			1056,
+			1001,
+			1000
+		],
+		"Kills": 2,
+		"Morts": 4,
+		"Saisons": [
+			"22"
+		],
+		"Tournois": [
+			"20220607"
+		]
+	},
+	{
+		"Player": "Nathan",
+		"ELO": [
+			1128,
+			1064,
+			1000
+		],
+		"Kills": 4,
+		"Morts": 0,
+		"Saisons": [
+			"22"
+		],
+		"Tournois": [
+			"20220607"
+		]
+	},
+	{
+		"Player": "Thomas",
+		"ELO": [
+			1001,
+			1000
+		],
+		"Kills": 1,
+		"Morts": 2,
+		"Saisons": [
+			"22"
+		],
+		"Tournois": [
+			"20220607"
+		]
+	},
+	{
+		"Player": "Mathieu",
+		"ELO": [
+			1001,
+			1000
+		],
+		"Kills": 0,
+		"Morts": 1,
+		"Saisons": [
+			"22"
+		],
+		"Tournois": [
+			"20220607"
+		]
+	}
+]
