@@ -18,12 +18,12 @@
 	{
 		"Player": "Nathan",
 		"ELO": [
-			1128,
+			1065,
 			1064,
 			1000
 		],
 		"Kills": 4,
-		"Morts": 0,
+		"Morts": 2,
 		"Saisons": [
 			"22"
 		],
@@ -34,11 +34,12 @@
 	{
 		"Player": "Thomas",
 		"ELO": [
+			1056,
 			1001,
 			1000
 		],
-		"Kills": 1,
-		"Morts": 2,
+		"Kills": 2,
+		"Morts": 3,
 		"Saisons": [
 			"22"
 		],
@@ -49,11 +50,12 @@
 	{
 		"Player": "Mathieu",
 		"ELO": [
-			1001,
+			1056,
+			1055,
 			1000
 		],
-		"Kills": 0,
-		"Morts": 1,
+		"Kills": 3,
+		"Morts": 2,
 		"Saisons": [
 			"22"
 		],
