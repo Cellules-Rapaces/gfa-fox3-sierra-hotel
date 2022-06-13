@@ -2,29 +2,32 @@
 	{
 		"Player": "Mickael",
 		"ELO": [
+			1057,
 			1056,
 			1001,
 			1000
 		],
-		"Kills": 2,
-		"Morts": 4,
+		"Kills": 3,
+		"Morts": 6,
 		"Saisons": [
 			"22"
 		],
 		"Semaines": [
+			"20220613",
 			"20220607"
 		]
 	},
 	{
 		"Player": "Nathan",
 		"ELO": [
+			1184,
 			1129,
 			1065,
 			1064,
 			1000
 		],
-		"Kills": 7,
-		"Morts": 2,
+		"Kills": 9,
+		"Morts": 3,
 		"Saisons": [
 			"22"
 		],
