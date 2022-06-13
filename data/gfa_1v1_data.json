@@ -11,39 +11,43 @@
 		"Saisons": [
 			"22"
 		],
-		"Tournois": [
+		"Semaines": [
 			"20220607"
 		]
 	},
 	{
 		"Player": "Nathan",
 		"ELO": [
+			1129,
 			1065,
 			1064,
 			1000
 		],
-		"Kills": 4,
+		"Kills": 7,
 		"Morts": 2,
 		"Saisons": [
 			"22"
 		],
-		"Tournois": [
+		"Semaines": [
+			"20220613",
 			"20220607"
 		]
 	},
 	{
 		"Player": "Thomas",
 		"ELO": [
+			1003,
 			1002,
 			1001,
 			1000
 		],
 		"Kills": 2,
-		"Morts": 4,
+		"Morts": 7,
 		"Saisons": [
 			"22"
 		],
-		"Tournois": [
+		"Semaines": [
+			"20220613",
 			"20220607"
 		]
 	},
@@ -59,7 +63,7 @@
 		"Saisons": [
 			"22"
 		],
-		"Tournois": [
+		"Semaines": [
 			"20220607"
 		]
 	}
