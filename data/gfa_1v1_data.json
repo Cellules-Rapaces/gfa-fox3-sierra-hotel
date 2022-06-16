@@ -2,13 +2,14 @@
 	{
 		"Player": "Mickael",
 		"ELO": [
+			1112,
 			1057,
 			1056,
 			1001,
 			1000
 		],
-		"Kills": 3,
-		"Morts": 6,
+		"Kills": 5,
+		"Morts": 7,
 		"Saisons": [
 			"22"
 		],
@@ -39,13 +40,14 @@
 	{
 		"Player": "Thomas",
 		"ELO": [
+			1058,
 			1003,
 			1002,
 			1001,
 			1000
 		],
-		"Kills": 2,
-		"Morts": 7,
+		"Kills": 4,
+		"Morts": 8,
 		"Saisons": [
 			"22"
 		],
@@ -57,16 +59,19 @@
 	{
 		"Player": "Mathieu",
 		"ELO": [
+			1100,
+			1105,
 			1110,
 			1055,
 			1000
 		],
-		"Kills": 4,
-		"Morts": 2,
+		"Kills": 6,
+		"Morts": 6,
 		"Saisons": [
 			"22"
 		],
 		"Semaines": [
+			"20220613",
 			"20220607"
 		]
 	}
