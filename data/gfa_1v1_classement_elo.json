@@ -2,29 +2,29 @@
 	{
 		"Classement": 1,
 		"Player": "Nathan",
-		"ELO": 1234,
+		"ELO": 1353,
 		"Saisons": 1,
-		"Semaines": 2,
-		"Combats": 6,
-		"Kill ratio": 2
+		"Semaines": 3,
+		"Combats": 8,
+		"Kill ratio": 2.43
 	},
 	{
 		"Classement": 2,
 		"Player": "Mickael",
-		"ELO": 1167,
+		"ELO": 1157,
 		"Saisons": 1,
-		"Semaines": 2,
-		"Combats": 5,
-		"Kill ratio": 0.88
+		"Semaines": 3,
+		"Combats": 7,
+		"Kill ratio": 0.62
 	},
 	{
 		"Classement": 3,
 		"Player": "Mathieu",
-		"ELO": 1095,
+		"ELO": 1151,
 		"Saisons": 1,
-		"Semaines": 2,
-		"Combats": 5,
-		"Kill ratio": 0.88
+		"Semaines": 3,
+		"Combats": 7,
+		"Kill ratio": 0.91
 	},
 	{
 		"Classement": 4,
