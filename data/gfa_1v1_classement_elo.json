@@ -2,11 +2,11 @@
 	{
 		"Classement": 1,
 		"Player": "Nathan",
-		"ELO": 1353,
+		"ELO": 1408,
 		"Saisons": 1,
-		"Semaines": 3,
-		"Combats": 8,
-		"Kill ratio": 2.43
+		"Semaines": 4,
+		"Combats": 9,
+		"Kill ratio": 2.38
 	},
 	{
 		"Classement": 2,
@@ -20,11 +20,11 @@
 	{
 		"Classement": 3,
 		"Player": "Mathieu",
-		"ELO": 1151,
+		"ELO": 1146,
 		"Saisons": 1,
-		"Semaines": 3,
-		"Combats": 7,
-		"Kill ratio": 0.91
+		"Semaines": 4,
+		"Combats": 8,
+		"Kill ratio": 0.85
 	},
 	{
 		"Classement": 4,
