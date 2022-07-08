@@ -2,6 +2,7 @@
 	{
 		"Player": "Mickael",
 		"ELO": [
+			1142,
 			1147,
 			1152,
 			1157,
@@ -14,7 +15,7 @@
 			1000
 		],
 		"Kills": 10,
-		"Morts": 17,
+		"Morts": 20,
 		"Saisons": [
 			"22"
 		],
@@ -29,6 +30,8 @@
 	{
 		"Player": "Nathan",
 		"ELO": [
+			1507,
+			1486,
 			1484,
 			1463,
 			1408,
@@ -42,8 +45,8 @@
 			1064,
 			1000
 		],
-		"Kills": 24,
-		"Morts": 9,
+		"Kills": 28,
+		"Morts": 11,
 		"Saisons": [
 			"22"
 		],
@@ -110,6 +113,21 @@
 		"Player": "Enzo",
 		"ELO": [
 			1055,
+			1000
+		],
+		"Kills": 2,
+		"Morts": 1,
+		"Saisons": [
+			"22"
+		],
+		"Semaines": [
+			"20220705"
+		]
+	},
+	{
+		"Player": "CoubyStark",
+		"ELO": [
+			1054,
 			1000
 		],
 		"Kills": 2,
