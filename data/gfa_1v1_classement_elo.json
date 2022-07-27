@@ -2,20 +2,20 @@
 	{
 		"Classement": 1,
 		"Player": "Nathan",
-		"ELO": 1529,
+		"ELO": 1527,
 		"Saisons": 1,
-		"Semaines": 6,
-		"Combats": 14,
-		"Kill ratio": 2.5
+		"Semaines": 7,
+		"Combats": 15,
+		"Kill ratio": 2
 	},
 	{
 		"Classement": 2,
 		"Player": "Mathieu",
-		"ELO": 1295,
+		"ELO": 1316,
 		"Saisons": 1,
-		"Semaines": 6,
-		"Combats": 11,
-		"Kill ratio": 1.54
+		"Semaines": 7,
+		"Combats": 12,
+		"Kill ratio": 1.77
 	},
 	{
 		"Classement": 3,
@@ -38,11 +38,11 @@
 	{
 		"Classement": 5,
 		"Player": "Enzo",
-		"ELO": 1056,
+		"ELO": 1111,
 		"Saisons": 1,
-		"Semaines": 2,
-		"Combats": 2,
-		"Kill ratio": 1
+		"Semaines": 3,
+		"Combats": 3,
+		"Kill ratio": 1.25
 	},
 	{
 		"Classement": 6,
@@ -56,10 +56,10 @@
 	{
 		"Classement": 7,
 		"Player": "Thibault",
-		"ELO": 1001,
+		"ELO": 1002,
 		"Saisons": 1,
-		"Semaines": 1,
-		"Combats": 1,
-		"Kill ratio": 0
+		"Semaines": 2,
+		"Combats": 2,
+		"Kill ratio": 0.2
 	}
 ]
