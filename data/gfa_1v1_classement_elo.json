@@ -2,7 +2,7 @@
 	{
 		"Classement": 1,
 		"Player": "Nathan",
-		"ELO": 1545,
+		"ELO": 1219,
 		"Saisons": 1,
 		"Semaines": 8,
 		"Combats": 16,
@@ -10,26 +10,26 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "Enzo",
-		"ELO": 1344,
-		"Saisons": 1,
-		"Semaines": 6,
-		"Combats": 8,
-		"Kill ratio": 1.67
-	},
-	{
-		"Classement": 3,
 		"Player": "Matthieu",
-		"ELO": 1332,
+		"ELO": 1177,
 		"Saisons": 1,
 		"Semaines": 8,
 		"Combats": 14,
 		"Kill ratio": 1.47
 	},
 	{
+		"Classement": 3,
+		"Player": "Enzo",
+		"ELO": 1171,
+		"Saisons": 1,
+		"Semaines": 6,
+		"Combats": 8,
+		"Kill ratio": 1.67
+	},
+	{
 		"Classement": 4,
 		"Player": "Thomas",
-		"ELO": 1234,
+		"ELO": 1116,
 		"Saisons": 1,
 		"Semaines": 8,
 		"Combats": 16,
@@ -38,7 +38,7 @@
 	{
 		"Classement": 5,
 		"Player": "Mickael",
-		"ELO": 1157,
+		"ELO": 1085,
 		"Saisons": 1,
 		"Semaines": 9,
 		"Combats": 14,
@@ -47,7 +47,7 @@
 	{
 		"Classement": 6,
 		"Player": "CoubyStark",
-		"ELO": 1054,
+		"ELO": 1047,
 		"Saisons": 1,
 		"Semaines": 1,
 		"Combats": 1,
