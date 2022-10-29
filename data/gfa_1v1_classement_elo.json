@@ -2,14 +2,23 @@
 	{
 		"Classement": 1,
 		"Player": "Nathan",
-		"ELO": 1527,
+		"ELO": 1545,
 		"Saisons": 1,
-		"Semaines": 7,
-		"Combats": 15,
+		"Semaines": 8,
+		"Combats": 16,
 		"Kill ratio": 2
 	},
 	{
 		"Classement": 2,
+		"Player": "Enzo",
+		"ELO": 1344,
+		"Saisons": 1,
+		"Semaines": 6,
+		"Combats": 8,
+		"Kill ratio": 1.67
+	},
+	{
+		"Classement": 3,
 		"Player": "Matthieu",
 		"ELO": 1332,
 		"Saisons": 1,
@@ -18,30 +27,21 @@
 		"Kill ratio": 1.47
 	},
 	{
-		"Classement": 3,
-		"Player": "Thomas",
-		"ELO": 1194,
-		"Saisons": 1,
-		"Semaines": 6,
-		"Combats": 13,
-		"Kill ratio": 0.7
-	},
-	{
 		"Classement": 4,
-		"Player": "Enzo",
-		"ELO": 1161,
+		"Player": "Thomas",
+		"ELO": 1234,
 		"Saisons": 1,
-		"Semaines": 4,
-		"Combats": 5,
-		"Kill ratio": 0.88
+		"Semaines": 8,
+		"Combats": 16,
+		"Kill ratio": 0.85
 	},
 	{
 		"Classement": 5,
 		"Player": "Mickael",
-		"ELO": 1159,
+		"ELO": 1157,
 		"Saisons": 1,
-		"Semaines": 8,
-		"Combats": 13,
+		"Semaines": 9,
+		"Combats": 14,
 		"Kill ratio": 0.56
 	},
 	{
@@ -56,10 +56,19 @@
 	{
 		"Classement": 7,
 		"Player": "Thibault",
-		"ELO": 1003,
+		"ELO": 1006,
 		"Saisons": 1,
-		"Semaines": 3,
-		"Combats": 3,
-		"Kill ratio": 0.29
+		"Semaines": 5,
+		"Combats": 6,
+		"Kill ratio": 0.2
+	},
+	{
+		"Classement": 8,
+		"Player": "Auriane",
+		"ELO": 1001,
+		"Saisons": 1,
+		"Semaines": 1,
+		"Combats": 1,
+		"Kill ratio": 0
 	}
 ]
